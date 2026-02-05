@@ -3,4 +3,4 @@ In this tutorial, we will be integrating Flask-WTF and Flask-CKEditor into your 
 
 📌 Full tutorial: https://python-post.blogspot.com/2026/02/how-to-integrate-flask-ckeditor-with.html
 
-![Alt text](image_source)
+![Alt text]([image_source](https://github.com/Kelvin-Data/Flask-with-CKEditor/blob/fab35b779d47db1020c133581d5eb203c630de96/Keep%20in%20touch.png))
